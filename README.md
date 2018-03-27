@@ -1,2 +1,2 @@
 # Neural-01
-This is the first neural network, written by me
+This is the first neural network, written by me.
