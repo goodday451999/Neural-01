@@ -1,3 +1,4 @@
+#Import "numpy"
 import numpy as np
 
 def nonlin(x,deriv=False):
