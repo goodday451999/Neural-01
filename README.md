@@ -1,5 +1,4 @@
 # Neural-01
-This is the first neural network, written by me.
-It's very basic implementation.
+It's very basic implementation of Neural Network.
 
 The intoduction of Neural Network to me.
