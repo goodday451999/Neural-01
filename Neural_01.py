@@ -1,6 +1,7 @@
 from math import exp
 #import numpy
 import numpy as np
+from numpy import dot
 
 def nonlin(x, deriv=False):
     if (deriv == True):
